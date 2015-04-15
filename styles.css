@@ -1,0 +1,17 @@
+div {
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+}
+
+.a {
+	background-color: red;
+}
+
+.b {
+	background-color: purple;
+}
+
+.c {
+	background-color: blue;
+}
